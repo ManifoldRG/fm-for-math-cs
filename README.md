@@ -4,9 +4,13 @@
 
 ## Overview
 
-This repo contains datasets of mathematics and theoretical computer science for the training of foundations models, also code to **download** such datasets, and **translate** such datasets to [Pythorch Dataset format](https://pytorch.org/vision/stable/datasets.html) or [Tensorflow Dataset format](https://www.tensorflow.org/datasets/api_docs/python/tfds). 
+This repo contains datasets of mathematics and theoretical computer science for the training of foundations models, and code to **download** such datasets, and **translate** such datasets to [Pytorch Dataset format](https://pytorch.org/vision/stable/datasets.html) or [Tensorflow Dataset format](https://www.tensorflow.org/datasets/api_docs/python/tfds). 
 
-Datasets can cover topics from mainstream college mathematics and theoretical computer science (discrete math, etc):
+Math accumen is crucial for human being. The history of automatic math problem solving is as long as that of AI. One example is automated theorem proving which has spanned several decades. 
+
+Math/reasoning will become and stay as a crucial part of Gen AI, we cannot over-emphasize its significance in achieving AGI (if ever achievable)
+
+The datasets we will curate can cover topics from mainstream college mathematics and theoretical computer science (discrete math, etc):
 - Calculus
 - Linear Algebra
 - Probability and Statistics
