@@ -8,7 +8,7 @@ This repo contains datasets of mathematics and theoretical computer science for 
 
 Math accumen is crucial for human being. The history of automatic math problem solving is as long as that of AI. One example is automated theorem proving which has spanned several decades. 
 
-Math/reasoning will become and stay as a crucial part of Gen AI, we cannot over-emphasize its significant role in achieving AGI (if ever achievable :) )
+Math/reasoning will become and stay as a crucial part of Gen AI, we cannot over-emphasize its significant role in achieving AGI (if ever achievable :smile: )
 
 The datasets we will curate can cover topics from mainstream college mathematics and theoretical computer science (discrete math, etc):
 - Calculus
