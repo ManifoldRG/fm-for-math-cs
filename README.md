@@ -1,6 +1,6 @@
 # Foundation Models/Datasets for MATH/CS Problem Solving
 
-### TBD..... reach out to us via [Discord](https://discord.com/channels/755517485096108153/1275024255637262336)
+### ..... Reach out to us via [Discord](https://discord.com/channels/755517485096108153/1275024255637262336)
 
 ## Overview
 
