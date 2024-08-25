@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repo contains datasets of mathematics and theoretical computer science for the training of foundations models, also code to **download** such datasets, and **translate** such dataets to a unified[Pythorch Dataset format](https://pytorch.org/vision/stable/datasets.html) or [Tensorflow Dataset format](https://www.tensorflow.org/datasets/api_docs/python/tfds). 
+This repo contains datasets of mathematics and theoretical computer science for the training of foundations models, also code to **download** such datasets, and **translate** such datasets to [Pythorch Dataset format](https://pytorch.org/vision/stable/datasets.html) or [Tensorflow Dataset format](https://www.tensorflow.org/datasets/api_docs/python/tfds). 
 
 Topics to be covered will be from mainstream college mathematics and theoretical computer science (discrete math, etc):
 - Calculus
