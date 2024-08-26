@@ -10,7 +10,7 @@ Math accumen is crucial for human being. The history of automatic math problem s
 
 Math/reasoning will become and stay as a crucial part of Gen AI, we cannot over-emphasize its significant role in achieving AGI (if ever achievable :smile: )
 
-The datasets we will curate can cover topics from mainstream college mathematics and theoretical computer science (discrete math, etc):
+The datasets we will curate can cover, and not limited to the following topics from mainstream college mathematics and theoretical computer science (discrete math, etc):
 - Calculus
 - Linear Algebra
 - Probability and Statistics
